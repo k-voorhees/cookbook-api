@@ -9,11 +9,6 @@ const CONNECT_DB = require("./DB/connect");
 
 app.use(express.json());
 
-app.get("/", (req, res) => {
-  // this will be the homepage of the app.
-  res.send("home page");
-});
-
 app.use("/api", recipes);
 app.use("/api/page-control", pageControl);
 
