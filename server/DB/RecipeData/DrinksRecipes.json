@@ -1,0 +1,433 @@
+[
+  {
+    "Category": "drinks",
+    "Title": "Candy Cane Cocktail With Vanilla Vodka",
+    "Image": "https://www.sipandfeast.com/wp-content/uploads/2019/12/candy-cane-cocktail-snippet-500x500.jpg",
+    "Ingredients": [
+      " 1  cup  ice",
+      " 3 small candy canes",
+      " 1 ¼ ounce vanilla vodka",
+      " 1 ¼ ounce white creme de cacao",
+      " ¾ ounce creme de menthe"
+    ],
+    "Instructions": [
+      "With a mallet, crush the candy canes into a powder leaving some pieces larger than others",
+      " Place in a small, flat dish large enough to accommodate the top of the martini or coupe glass",
+      "Moisten a paper towel with some vanilla vodka and run it along the rim of your martini or coupe glass",
+      "Dip the glass into the candy cane powder and set aside",
+      "To a cocktail shaker, add ice, vanilla vodka, white creme de cacao, and creme de menthe",
+      "Shake vigorously for 20 seconds",
+      "Strain and pour into the garnished glass",
+      " Serve immediately!"
+    ]
+  },
+  {
+    "Category": "drinks",
+    "Title": "Apple Cider Old Fashioned",
+    "Image": "https://www.sipandfeast.com/wp-content/uploads/2019/10/apple-cider-old-fashioned-snippet-500x500.jpg",
+    "Ingredients": [
+      " 2 ounces apple cider",
+      " 2 ounces Rye",
+      " 1 dash bitters",
+      " 1 slice  apple for garnish",
+      " 2 cherries for garnish",
+      " 1 cup ice"
+    ],
+    "Instructions": [
+      "To a cocktail mixer, add half the ice; fill a rocks glass with remaining ice",
+      "To the mixer, add the rye, apple cider, and bitters",
+      "Stir for about 20 seconds to incorporate the ingredients and adequately chill the drink",
+      "Strain and pour into the ice-filled rocks glass",
+      "Garnish with an apple slice and cherries",
+      " Serve immediately"
+    ]
+  },
+  {
+    "Category": "drinks",
+    "Title": "Eggnog White Russian",
+    "Image": "https://www.sipandfeast.com/wp-content/uploads/2019/12/eggnog-white-russian-snippet-500x500.jpg",
+    "Ingredients": [
+      " 2 ounces Vodka",
+      " 1 ½ ounces Coffee Liqueur ",
+      " 2 ounces Eggnog",
+      " 1 dash Ground Nutmeg (optional)",
+      " 1 cube  ice"
+    ],
+    "Instructions": [
+      "To a rocks glass, add your ice cube",
+      "Add the vodka and coffee liqueur, and stir gently",
+      "Pour the eggnog over the ice/vodka/coffee liqueur mixture",
+      "Sprinkle a dash of ground nutmeg on top",
+      "Serve immediately!"
+    ]
+  },
+  {
+    "Category": "drinks",
+    "Title": "Cranberry Moscow Mule",
+    "Image": "https://www.sipandfeast.com/wp-content/uploads/2019/10/cranberry-moscow-mule-snippet-500x500.jpg",
+    "Ingredients": [
+      " 1 ½ ounces vodka",
+      " 1 ounce cranberry Juice",
+      " ¾ cup ginger beer",
+      " 1 tablespoon lime juice",
+      " 1 sprig rosemary ",
+      " 1 handful cranberries ",
+      " 1 slice lime ",
+      " 1 cup crushed ice"
+    ],
+    "Instructions": [
+      "Fill the copper mug with crushed ice",
+      " Add the lime juice, cranberry juice, and vodka",
+      " Give it a quick stir",
+      "Add the ginger beer and give another stir",
+      "Garnish with the sprig of rosemary, lime slice, and cranberries",
+      " Serve immediately"
+    ]
+  },
+  {
+    "Category": "drinks",
+    "Title": "Pumpkin Mule",
+    "Image": "https://www.sipandfeast.com/wp-content/uploads/2021/09/pumpkin-mule-snippet-500x500.jpg",
+    "Ingredients": [
+      " 2 ounces pumpkin flavored vodka",
+      " 1 tablespoon apple cider",
+      " 1 tablespoon pumpkin butter",
+      " 4 ounces ginger ale",
+      " 1 cup crushed ice",
+      " 2 sprigs fresh thyme for garnish",
+      " 1 stick cinnamon for garnish"
+    ],
+    "Instructions": [
+      "Fill a copper mug with the ice",
+      "Add the apple cider, pumpkin butter and vodka directly to the copper mug",
+      "Top with the ginger ale",
+      "Garnish with the thyme and cinnamon stick and serve immediately",
+      " Enjoy!"
+    ]
+  },
+  {
+    "Category": "drinks",
+    "Title": "Blackberry Bramble",
+    "Image": "https://www.sipandfeast.com/wp-content/uploads/2020/10/blackberry-bramble-snippet-500x500.jpg",
+    "Ingredients": [
+      " 2 ounces gin",
+      " 1 ounce crème de mûre",
+      " 1  ounce  lemon juice",
+      " .5 ounce blueberry syrup",
+      " 1 cup crushed ice plus more for your shaker",
+      " 3 whole blackberries for your garnish"
+    ],
+    "Instructions": [
+      "Fill a rocks glass with crushed ice",
+      "To a cocktail shaker, add additional ice, gin, and lemon juice",
+      " Shake quickly and pour over the crushed ice in the rocks glass",
+      "Drizzle the crème de mûre over the back of a bar spoon to achieve a marbled effect",
+      "Drizzle the blueberry syrup over the back of a bar spoon to achieve the same effect",
+      "Garnish with blackberries and serve immediately"
+    ]
+  },
+  {
+    "Category": "drinks",
+    "Title": "Cranberry Mimosa",
+    "Image": "https://www.sipandfeast.com/wp-content/uploads/2019/11/cranberry-mimosa-snippet-500x500.jpg",
+    "Ingredients": [
+      " 1 tablespoon Gran Gala",
+      " ¼ cup orange juice",
+      " ¼ cup cranberry juice",
+      " ½  cup prosecco",
+      " 1 handful cranberries for garnish",
+      " 1 sprig rosemary for garnish"
+    ],
+    "Instructions": [
+      "To a champagne flute, add the Gran Gala, orange juice, and cranberry juice",
+      "Stir these ingredients together",
+      "Fill to the top with the prosecco",
+      "Add cranberries and rosemary for garnish",
+      " Serve immediately"
+    ]
+  },
+  {
+    "Category": "drinks",
+    "Title": "Lavender French 75",
+    "Image": "https://www.sipandfeast.com/wp-content/uploads/2019/06/lavender-french-75-recipe-snippet-500x500.jpg",
+    "Ingredients": [
+      " 2 oz Gin",
+      " ¾ oz Fresh lemon juice",
+      " 1 oz Lavender simple syrup",
+      " 2 oz Prosecco or champagne",
+      " 2 sprigs Fresh Lavender (optional for garnish)",
+      " 1  cup Ice"
+    ],
+    "Instructions": [
+      "Using a citrus juicer, begin to juice your lemons",
+      "To a cocktail shaker, add ice, lemon juice, gin and lavender simple syrup",
+      " Shake for approximately 20 seconds",
+      "Strain and pour the mixture into a champagne flute or coupe glass",
+      "Top with Prosecco and give a quick stir",
+      "Garnish with fresh lavender and serve right away"
+    ]
+  },
+  {
+    "Category": "drinks",
+    "Title": "Strawberry Mojito",
+    "Image": "https://www.sipandfeast.com/wp-content/uploads/2019/05/strawberry-mojito-snippet-500x500.jpg",
+    "Ingredients": [
+      " 2 oz White Rum",
+      " 2 oz Club Soda",
+      " ½ oz Lime Juice ",
+      " 3 Wedges Lime plus more for garnish",
+      " 3 Medium sized Strawberries",
+      " 10 Leaves Mint for drink and garnish",
+      " ½ oz Simple Syrup",
+      " 1 cup  Ice"
+    ],
+    "Instructions": [
+      "Muddle the strawberries, lime juice, lime wedges and simple syrup in a cocktail shaker",
+      "Add rum and ice and shake vigorously for 20 seconds",
+      "Pour directly into a glass with additional ice",
+      "  Do not strain",
+      " Add the club soda and stir",
+      "Garnish with mint leaves, lime slices or wedges, or strawberries if desired",
+      "  Serve immediately"
+    ]
+  },
+  {
+    "Category": "drinks",
+    "Title": "Pumpkin Spice Martini",
+    "Image": "https://www.sipandfeast.com/wp-content/uploads/2020/10/pumpkin-spice-martini-snippet-500x500.jpg",
+    "Ingredients": [
+      " 2 ounces Rumchata",
+      " 1 ounce Pumpkin vodka",
+      " 1 ounce Vanilla vodka",
+      " 1 tablespoon Pumpkin pie spice for the rim",
+      " 1 tablespoon Maple butter for the rim",
+      " 1 cup  ice for your shaker"
+    ],
+    "Instructions": [
+      "To a plate large enough to fit the rim of your martini glass, spread the maple butter, and dip the rim of your glass ensuring there is a thin layer of maple butter",
+      " To a plate large enough to fit the rim of your martini glass, add the pumpkin pie spice and dip/roll the maple buttered portion of the glass ensuring that the spice sticks to the maple butter",
+      "To a cocktail shaker, add ice, vanilla and pumpkin vodkas, and the rumchata",
+      " Shake for about 20 seconds, before straining and pouring into your maple and pumpkin spice rimmed glass",
+      "Serve immediately"
+    ]
+  },
+  {
+    "Category": "drinks",
+    "Title": "Apple Margarita",
+    "Image": "https://www.sipandfeast.com/wp-content/uploads/2020/10/apple-margarita-snippet-500x500.jpg",
+    "Ingredients": [
+      " 2  ounces mezcal",
+      " .5 ounce triple sec",
+      " .5 ounce  pear liqueur",
+      " 1 ounce apple cider",
+      " .5 ounce fresh lime juice",
+      " 2 tsp apple jam",
+      " 2 stars anise divided",
+      " 3 slices apple",
+      " 1  cup ice plus more for your glass"
+    ],
+    "Instructions": [
+      "Fill a rocks glass with ice",
+      "To a cocktail shaker, add ice, mezcal, triple sec, pear liqueur, apple cider, lime juice, apple jam, and one star anise",
+      "Shake vigorously for 20 seconds, strain and pour over ice in rocks glass",
+      "Garnish with apple slices and star anise",
+      " Serve immediately"
+    ]
+  },
+  {
+    "Category": "drinks",
+    "Title": "Caramel Apple Mimosa - The Perfect Holiday Cocktail",
+    "Image": "https://www.sipandfeast.com/wp-content/uploads/2019/11/caramel-apple-mimosa-snippet-500x500.jpg",
+    "Ingredients": [
+      " ½  tablespoon caramel sauce",
+      " 1 teaspoon cinnamon",
+      " 1  teaspoon sugar",
+      " 2 ounces caramel vodka",
+      " 3 ounces apple cider",
+      " 3 ounces prosecco",
+      " 1 slice apple for garnish"
+    ],
+    "Instructions": [
+      "Rim your glass with the caramel sauce, then roll or dip into the cinnamon and sugar mixture",
+      "Add the caramel vodka and apple cider to the glass and give a gentle stir",
+      "Fill the glass with the prosecco",
+      "Add the sliced apple for garnish",
+      "Serve immediately and enjoy!"
+    ]
+  },
+  {
+    "Category": "drinks",
+    "Title": "Angelo Azzurro",
+    "Image": "https://www.sipandfeast.com/wp-content/uploads/2019/07/angelo-azzurro-recipe-snippet-500x500.jpg",
+    "Ingredients": [
+      " 3 oz Gin",
+      " 1 ½ oz Triple Sec",
+      " ½ oz Blue Curacao",
+      " 1  cup ice",
+      " 1 peel lemon (for garnish)"
+    ],
+    "Instructions": [
+      "Add ice to a cocktail shaker",
+      "Add the blue curacao, triple sec, and gin",
+      "Shake for approximately 20 seconds",
+      "Strain and pour into a martini or coupe glass",
+      "Twist and add the lemon peel as a garnish",
+      " Serve immediately"
+    ]
+  },
+  {
+    "Category": "drinks",
+    "Title": "Strawberry Lemonade Vodka",
+    "Image": "https://www.sipandfeast.com/wp-content/uploads/2019/07/strawberry-lemonade-vodka-snippet-1-500x500.jpg",
+    "Ingredients": [
+      " 2 oz vodka",
+      " 1 oz strawberry liqueur",
+      " 2 oz  lemonade",
+      " 1 cup  ice",
+      " 3 oz club soda (optional)",
+      " 2 medium strawberries for garnish (optional)",
+      " 1 medium lemon for garnish (optional)"
+    ],
+    "Instructions": [
+      "Add ice to a cocktail shaker",
+      " If serving on the rocks, add the ice to the serving glass",
+      "Add the vodka, strawberry liqueur and lemonade",
+      "If using a shaker, shake for 20 seconds and then strain and pour into a glass",
+      " If serving on the rocks, stir the ingredients",
+      "If serving on the rocks, fill to the top with club soda or seltzer",
+      "Garnish with your choice of strawberries and/or lemon slices"
+    ]
+  },
+  {
+    "Category": "drinks",
+    "Title": "Pumpkin Spice Bourbon Milk Punch",
+    "Image": "https://www.sipandfeast.com/wp-content/uploads/2019/09/pumpkin-spice-bourbon-milk-punch-snippet-500x500.jpg",
+    "Ingredients": [
+      " 1 ¾ oz Bourbon",
+      " 1 oz Rumchata",
+      " 2 ½ oz Milk",
+      " 1 dash Vanilla extract",
+      " 1 tsp Honey",
+      " ¼  tsp Pumpkin pie spice",
+      " 1  cup ice"
+    ],
+    "Instructions": [
+      "Fill a cocktail shaker with ice",
+      " To the shaker add the bourbon, Rumchata, milk, and vanilla extract",
+      " Next, add the honey and shake vigorously for about 20 seconds",
+      "Strain and pour into ice-filled rocks glasses",
+      "Top with pumpkin pie spice and serve immediately"
+    ]
+  },
+  {
+    "Category": "drinks",
+    "Title": "Limonata Basil Cocktail",
+    "Image": "https://www.sipandfeast.com/wp-content/uploads/2019/04/basil-cocktail-snippet-2-500x500.jpg",
+    "Ingredients": [
+      " 2 oz Pellegrino Limonata ",
+      " 2 oz Seltzer (we used Lime flavored)",
+      " 2 oz Cucumber flavored vodka",
+      " 3 leaves Basil (save 1 for garnish)",
+      " 2 slices Lemon",
+      " 3  slices  Cucumber (save 1 for garnish)",
+      " 1 dash Orange Bitters (optional)",
+      " ½ cup ice"
+    ],
+    "Instructions": [
+      "Add lemon slices, cucumber slices and basil leaves to a cocktail shaker and muddle ingredients together",
+      "Add Vodka and ice",
+      "  Shake for 20 seconds",
+      "Strain and pour into a coupe glass, or over ice into a rocks glass",
+      "Add the Limonata and seltzer",
+      "  Also, add orange bitters to the top, if using",
+      "Garnish with a basil leaf and cucumber slice",
+      "  Serve immediately, and enjoy!"
+    ]
+  },
+  {
+    "Category": "drinks",
+    "Title": "Apple Pie A La Mode Martini",
+    "Image": "https://www.sipandfeast.com/wp-content/uploads/2019/10/apple-pie-martini-snippet-500x500.jpg",
+    "Ingredients": [
+      " 3 ½ ounces Hard Apple Cider",
+      " 1 scoop Vanilla ice cream",
+      " 1 splash club soda",
+      " 1 ounce vodka (optional)",
+      " 1 cup Ice",
+      " 1 pinch  sugar",
+      " 1  pinch cinnamon",
+      " 1 slice apple"
+    ],
+    "Instructions": [
+      "Combine the cinnamon and sugar",
+      " Set aside",
+      "Add ice, ice cream and cider to a blender",
+      " If using vodka, add at this time as well",
+      " Blend for about 15 seconds until ice is incorporated and the mixture is nice and frothy",
+      "Pour mixture into chilled coupe glasses",
+      " Top with a splash of club soda",
+      "Garnish with the apple slice and cinnamon/sugar mixture as shown",
+      " Serve immediately"
+    ]
+  },
+  {
+    "Category": "drinks",
+    "Title": "Oliveto Cocktail",
+    "Image": "https://www.sipandfeast.com/wp-content/uploads/2021/02/oliveto-cocktail-snippet-500x500.jpg",
+    "Ingredients": [
+      " 2 ounces gin",
+      " 1 ounce lemon juice freshly squeezed",
+      " ¼ ounce Licor 43",
+      " ½ ounce  extra virgin olive oil",
+      " 1 large egg white pasteurized",
+      " ¼ ounce  simple syrup",
+      " 2 medium ice cubes"
+    ],
+    "Instructions": [
+      "To a cocktail shaker, add the gin, licor 43, olive oil, lemon juice, simple syrup and egg white",
+      "\"Dry shake\" the ingredients for 30 seconds",
+      "To the shaker, add the 2 ice cubes and continue shaking vigorously until the ice is fully dissolved and you can no longer hear it clinking",
+      "Pour the contents from the shaker into a coupe, martini, or wine glass",
+      "Allow the foam to rise to the top and serve immediately"
+    ]
+  },
+  {
+    "Category": "drinks",
+    "Title": "Sherbet Punch",
+    "Image": "https://www.sipandfeast.com/wp-content/uploads/2019/03/sherbet-punch-snippet-500x500.jpg",
+    "Ingredients": [
+      " 4 scoops Rainbow Sherbet plus more for garnish",
+      " 1 cup Frozen raspberries",
+      " 1 cup Vodka ",
+      " 12 oz Seltzer",
+      " 1 bottle Sparkling wine"
+    ],
+    "Instructions": [
+      "To a pitcher or punch bowl, add 4 scoops of sherbet",
+      "Add the frozen raspberries",
+      "Add the vodka",
+      "Add the sparkling wine and seltzer",
+      "Stir and serve, adding an extra small scoop of sherbet to each glass (optional)"
+    ]
+  },
+  {
+    "Category": "drinks",
+    "Title": "Limoncello Spritz",
+    "Image": "https://www.sipandfeast.com/wp-content/uploads/2019/07/limoncello-spritz-snippet-500x500.jpg",
+    "Ingredients": [
+      " 2 oz limoncello",
+      " 3 oz prosecco",
+      " 1 oz club soda",
+      " 1 cup ice",
+      " 1  sprig mint (optional - for garnish)",
+      " 3 slices lemon (optional - for garnish)"
+    ],
+    "Instructions": [
+      "Add ice to a glass of your choice",
+      "Add the limoncello, followed by the prosecco and club soda",
+      "Stir the ingredients",
+      "Add garnishes of mint and lemon, if desired",
+      "Serve immediately"
+    ]
+  }
+]
