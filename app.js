@@ -2,7 +2,6 @@ const express = require("express");
 const app = express();
 
 const recipes = require("./routes/recipes");
-const pageControl = require("./routes/control");
 
 require("dotenv").config();
 const CONNECT_DB = require("./DB/connect");
@@ -10,7 +9,6 @@ const CONNECT_DB = require("./DB/connect");
 app.use(express.json());
 
 app.use("/api", recipes);
-app.use("/api/page-control", pageControl);
 
 const PORT = process.env.PORT || 4000;
 const start = async () => {
