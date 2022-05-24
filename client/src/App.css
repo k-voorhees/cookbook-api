@@ -1,0 +1,509 @@
+.content {
+  margin-top: 65px;
+}
+.header {
+  height: 50px;
+  width: 100%;
+  background-color: var(--olive);
+  position: fixed;
+  z-index: 1;
+  top: 0;
+}
+.nav-bar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  height: 50px;
+}
+.nav-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 10px;
+}
+.nav-list a {
+  text-decoration: none;
+  list-style: none;
+  color: var(--golden);
+}
+.nav-list a:hover {
+  text-decoration: underline;
+  text-decoration-color: var(--golden);
+}
+.nav-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 10px;
+}
+/* Style The Dropdown Button */
+.dropbtn {
+  background-color: var(--olive);
+  border: none;
+  cursor: pointer;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropdown-content {
+  top: 120%;
+  display: none;
+  position: absolute;
+  background-color: var(--olive);
+  min-width: fit-content;
+}
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: var(--golden);
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+  background-color: var(--olive);
+}
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+  text-decoration: none;
+  background-color: var(--darkGreen);
+}
+/* home page  */
+.home-page h1 {
+  text-align: center;
+  padding-bottom: 20px;
+  font-size: 26px;
+}
+.home-page-body {
+  padding: 30px 0px;
+}
+.home-page p {
+  font-size: 16px;
+  line-height: 26px;
+  padding: 10px 10px;
+  text-indent: 30px;
+}
+.slick-slider {
+  max-width: 300px;
+  margin: 0 auto;
+}
+.slick-slider img {
+  max-height: 300px;
+  max-width: 300px;
+}
+/* end of home page  */
+/* about page  */
+.about-page-body {
+  padding: 20px 0px;
+}
+.about-page p {
+  padding: 5px 10px;
+  font-size: 16px;
+  line-height: 26px;
+  text-indent: 30px;
+}
+.tech-stack-images {
+  display: flex;
+  justify-content: center;
+}
+.tech-stack-images img {
+  width: 90px;
+  height: 95px;
+}
+/* end of about page  */
+/* Categories  */
+.category-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 0px 20px;
+}
+.category-button {
+  height: 40px;
+  margin: 5px;
+  padding: 0px 10px;
+  width: auto;
+  font-size: 16px;
+  text-transform: capitalize;
+  border: none;
+  border-radius: 1px;
+  background-color: var(--olive);
+  color: var(--golden);
+}
+/* end of categories  */
+/* All Recipes  */
+.recipe-card-list {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.recipe-card-list a {
+  text-decoration: none;
+}
+.recipe-card {
+  height: fit-content;
+  width: 150px;
+  border-radius: 5px;
+  text-align: center;
+  margin: 10px;
+  transition: all 0.2s ease-in-out;
+  background-color: var(--olive);
+}
+.recipe-card h3 {
+  color: var(--golden);
+  font-weight: 400;
+}
+.recipe-card:hover {
+  transform: scale(1.05);
+}
+.recipe-card-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px 5px;
+}
+.recipe-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px 5px 0 0;
+}
+/* End all recipes  */
+/* recipe page  */
+.recipe-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.ingredient-container {
+  background-color: var(--green);
+  border-radius: 5px;
+  margin-top: 20px;
+  max-width: 320px;
+}
+.recipe-page-image {
+  display: block;
+  height: auto;
+  max-width: inherit;
+  border-radius: 5px 5px 0 0;
+}
+.recipe-page-ingredients-list {
+  box-sizing: border-box;
+  font-size: 16px;
+  font-weight: 400;
+  padding: 10px 10px;
+}
+.recipe-page-ingredients-list h4 {
+  font-weight: 500;
+  text-align: center;
+  font-size: 26px;
+  padding-bottom: 10px;
+}
+.recipe-page-title {
+  text-align: center;
+  padding: 20px 0px;
+}
+.recipe-page-instructions-list li {
+  line-height: 30px;
+  font-size: 18px;
+  padding: 10px 10px;
+}
+.ingredient-item {
+  list-style: none;
+}
+.instruction-step {
+  list-style: none;
+}
+/* end of recipe page  */
+
+@media (min-width: 768px) {
+  .content {
+    margin-top: 100px;
+  }
+  /* nav bar and header  */
+  .header {
+    height: 80px;
+    width: 100%;
+    background-color: var(--olive);
+    position: fixed;
+    z-index: 1;
+    top: 0;
+  }
+  /* Style The Dropdown Button */
+  .dropbtn {
+    background-color: var(--olive);
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  .dropdown {
+    display: inline-block;
+  }
+  .dropdown-content {
+    top: 100%;
+    display: none;
+    position: absolute;
+    background-color: var(--olive);
+    min-width: fit-content;
+  }
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: var(--golden);
+    text-transform: capitalize;
+    padding: 5px 8px;
+    text-decoration: none;
+    display: block;
+  }
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+  .dropdown:hover .dropbtn {
+    background-color: var(--olive);
+  }
+  .nav-bar {
+    height: 80px;
+    display: flex;
+    align-items: center;
+  }
+  .nav-list {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .nav-list a {
+    text-decoration: none;
+    list-style: none;
+    color: var(--golden);
+  }
+  .nav-list a:hover {
+    text-decoration: underline;
+    text-decoration-color: var(--golden);
+  }
+  .nav-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    padding-right: 50px;
+    width: 80px;
+    font-size: 30px;
+  }
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {
+    text-decoration: none;
+    background-color: var(--darkGreen);
+  }
+
+  /* end of nav bar and header  */
+  /*  */
+  /*  */
+  /* home page  */
+  .home-page h1 {
+    padding-bottom: 40px;
+    font-size: 36px;
+  }
+  .home-page-body {
+    padding: 50px 20px;
+  }
+  .home-page p {
+    margin: 0 auto;
+    line-height: 30px;
+    font-size: 20px;
+    padding: 10px 0;
+    text-indent: 50px;
+  }
+  .slick-slider {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  .slick-slider img {
+    max-height: 500px;
+    max-width: 500px;
+  }
+  /* end of home page  */
+  /*  */
+  /*  */
+  /* about page  */
+  .about-page-body {
+    padding: 50px 0px;
+  }
+  .about-page p {
+    padding: 5px 20px;
+    font-size: 20px;
+    line-height: 30px;
+    text-indent: 30px;
+  }
+  .tech-stack-images {
+    padding-top: 30px;
+  }
+  .tech-stack-images img {
+    padding: 10px;
+    width: 110px;
+    height: 110px;
+  }
+  /* end of about page  */
+  /*  */
+  /*  */
+  /* Categories  */
+  .category-button {
+    height: 50px;
+    margin: 15px;
+    padding: 10px 20px;
+    font-size: 20px;
+  }
+  /* end of categories  */
+  /* All Recipes  */
+  .recipe-card-list {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+  .recipe-card-title {
+    padding: 10px 5px;
+    font-size: 14px;
+  }
+  /* End all recipes  */
+  /*  */
+  /*  */
+  /* recipe page  */
+  .recipe-content {
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px 15px;
+  }
+
+  .recipe-page-ingredients-list {
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 400;
+    padding: 10px 10px;
+  }
+  /* end of recipe page  */
+}
+
+@media (min-width: 1024px) {
+  .content {
+    margin: 120px;
+  }
+  /* nav bar and header  */
+
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    padding: 12px 16px;
+  }
+  /* Show the dropdown menu on hover */
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+  .dropdown:hover .dropbtn {
+    background-color: var(--olive);
+  }
+  .nav-list a:hover {
+    text-decoration: underline;
+    text-decoration-color: var(--golden);
+  }
+  .nav-button {
+    font-size: 30px;
+  }
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {
+    text-decoration: none;
+    background-color: var(--darkGreen);
+  }
+  /* end of nav bar and header  */
+  /*  */
+  /*  */
+  /* home page  */
+  .home-page h1 {
+    font-size: 42px;
+  }
+  .home-page p {
+    width: 80%;
+    line-height: 30px;
+    font-size: 22px;
+  }
+
+  /* end of home page  */
+  /*  */
+  /*  */
+  /* about page  */
+  .about-page p {
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 50px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 30px;
+  }
+  .tech-stack-images img {
+    width: 250px;
+    height: 250px;
+  }
+  /* end of about page  */
+  /*  */
+  /*  */
+  /* All Recipes  */
+  .recipe-card-list {
+    align-items: flex-start;
+  }
+  .recipe-card {
+    width: 300px;
+    transition: all 0.2s ease-in-out;
+  }
+  .recipe-card:hover {
+    transform: scale(1.05);
+  }
+  .recipe-card-title {
+    padding: 20px 0px;
+    font-size: 20px;
+  }
+  /* End all recipes  */
+  /*  */
+  /*  */
+  /* Categories  */
+  .category-list {
+    margin-bottom: 40px;
+  }
+  .category-button {
+    margin: 0 15px;
+    padding: 5px 30px;
+  }
+  /* end of categories  */
+  /*  */
+  /*  */
+  /* recipe page  */
+  .recipe-page-title {
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  .recipe-content {
+    flex-direction: row;
+  }
+  .ingredient-container {
+    margin-right: 50px;
+    max-width: 500px;
+  }
+  .recipe-page-ingredients-list {
+    padding: 20px 20px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+  }
+  .recipe-page-instructions-list {
+    font-size: 20px;
+  }
+  /* end of recipe page  */
+}
